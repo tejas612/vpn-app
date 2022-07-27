@@ -5,7 +5,7 @@
       "image": "https://tejas612.github.io/vpn-app/Country-Flags/usa.png",
       "id": "vpn",
       "newId": "vpn",
-       "contant": "###############################################################################
+      "contant": "###############################################################################
 # OpenVPN 2.0 Sample Configuration File
 # for PacketiX VPN / SoftEther VPN Server
 # 
