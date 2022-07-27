@@ -66,8 +66,7 @@ proto tcp
 # When you use UDP protocol, the port number must same as the configuration
 # setting of "OpenVPN Server Compatible Function" on the VPN Server.
 
-remote 219.100.37.190 443
-remote 219.100.37.190 1195
+remote 108.184.252.180 1949
 
 
 ###############################################################################
@@ -220,8 +219,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 </key>
 
-"
-    },
+"},
     {
       "title": "Express Server",
       "image": "https://tejas612.github.io/vpn-app/Country-Flags/usa.png",
