@@ -2,11 +2,11 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
       
-      "G_BannerAd": "ca-app-pub-3940256099942544/6300978111",
-      "G_InterAd": "ca-app-pub-3940256099942544/1033173712",
-      "G_NativeAd": "ca-app-pub-3940256099942544/2247696110",
-      "G_Video_Ad": "ca-app-pub-3940256099942544/5224354917",
-      "G_AppOpenAd": "ca-app-pub-3940256099942544/3419835294",
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+      "Video_Ad_Id": "ca-app-pub-3940256099942544/5224354917",
+      "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
       
       "GamezopId": "https://https://www.quizzop.com/get-started?id=3039",
       "QurekaID": "https://gameskite.com/?id=vibemaster",
