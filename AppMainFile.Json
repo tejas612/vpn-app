@@ -36,17 +36,13 @@
     "Circle": 
       [
         {
-          "Circle_1ImgLink": "https://drive.google.com/u/0/uc?id=1iVl8SDi3_zXUHssRWYfOW2d4rFEpySxv&export=download",
-          "Circle_1RedirectLink": "https://gameskite.com/?id=vibemaster"
+          "CircleLink": "https://drive.google.com/u/0/uc?id=1iVl8SDi3_zXUHssRWYfOW2d4rFEpySxv&export=download",
+          "CircleRedirectLink": "https://gameskite.com/?id=vibemaster"
         },
         {
-          "BannerURL":"https://drive.google.com/u/0/uc?id=1IwSToRyp90GosiGZDZBL-vnEMzrUhPlp&export=download",
-          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
-        },
-        {
-          "Circle_2ImgLink": "https://drive.google.com/u/0/uc?id=1Yu7pqunWOdYfNCTypL4kK0_SNMtwmvNw&export=download",
-          "Circle_2RedirectLink": "https://gameskite.com/?id=vibemaster"
+          "CircleLink":"https://drive.google.com/u/0/uc?id=1IwSToRyp90GosiGZDZBL-vnEMzrUhPlp&export=download",
+          "CircleRedirectLink":"https://gameskite.com/?id=vibemaster"
         }
       ]
-  }
+   }
 }
