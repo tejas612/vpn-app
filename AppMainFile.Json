@@ -1,0 +1,52 @@
+{
+  "data" :  {
+      "AD_Priority_Google/URL" : "Google",
+      
+      "G_BannerAd": "ca-app-pub-3940256099942544/6300978111",
+      "G_InterAd": "ca-app-pub-3940256099942544/1033173712",
+      "G_NativeAd": "ca-app-pub-3940256099942544/2247696110",
+      "G_Video_Ad": "ca-app-pub-3940256099942544/5224354917",
+      "G_AppOpenAd": "ca-app-pub-3940256099942544/3419835294",
+      
+      "GamezopId": "https://https://www.quizzop.com/get-started?id=3039",
+      "QurekaID": "https://gameskite.com/?id=vibemaster",
+      "GamesKitesID": "https://gameskite.com/?id=vibemaster",
+      "PredchmpId": "https://www.quizzop.com/get-started?id=3039",
+      "AtmeId": "https://gameskite.com/?id=vibemaster",
+      
+      "ShowFirstDirect": "Gone",
+      "ShowFirstUrlDirect": "https://www.quizzop.com/get-started?id=3039",
+      
+      "AppBanner": 
+      [
+        {
+          "BannerURL":"https://drive.google.com/u/0/uc?id=1IwSToRyp90GosiGZDZBL-vnEMzrUhPlp&export=download",
+          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+        },
+        {
+          "BannerURL":"https://drive.google.com/u/0/uc?id=1IwSToRyp90GosiGZDZBL-vnEMzrUhPlp&export=download",
+          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+        },
+        {
+          "BannerURL":"https://drive.google.com/u/0/uc?id=1IwSToRyp90GosiGZDZBL-vnEMzrUhPlp&export=download",
+          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+        }
+      ],
+    
+    "Circle": 
+      [
+        {
+          "Circle_1ImgLink": "https://drive.google.com/u/0/uc?id=1iVl8SDi3_zXUHssRWYfOW2d4rFEpySxv&export=download",
+          "Circle_1RedirectLink": "https://gameskite.com/?id=vibemaster"
+        },
+        {
+          "BannerURL":"https://drive.google.com/u/0/uc?id=1IwSToRyp90GosiGZDZBL-vnEMzrUhPlp&export=download",
+          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+        },
+        {
+          "Circle_2ImgLink": "https://drive.google.com/u/0/uc?id=1Yu7pqunWOdYfNCTypL4kK0_SNMtwmvNw&export=download",
+          "Circle_2RedirectLink": "https://gameskite.com/?id=vibemaster"
+        }
+      ]
+  }
+}
