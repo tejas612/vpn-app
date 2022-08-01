@@ -1,7 +1,9 @@
 {
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
-      
+    
+      "AppVersion_Update" : "1.0",  
+    
       "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
       "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
       "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
