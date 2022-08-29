@@ -17,40 +17,40 @@
       "Video_Ad_Id": "ca-app-pub-3940256099942544/5224354917",
       "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
       
-      "GamezopId": "https://gameskite.com/?id=vibemaster",
-      "QurekaID": "https://gameskite.com/?id=vibemaster",
-      "GamesKitesID": "https://gameskite.com/?id=vibemaster",
-      "PredchmpId": "https://gameskite.com/?id=vibemaster",
-      "AtmeId": "https://gameskite.com/?id=vibemaster",
+      "GamezopId": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
+      "QurekaID": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
+      "GamesKitesID": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
+      "PredchmpId": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
+      "AtmeId": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
       
       "ShowFirstDirect": "Gone",
-      "ShowFirstUrlDirect": "https://www.quizzop.com/get-started?id=3039",
+      "ShowFirstUrlDirect": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
       
       "AppBanner": 
       [
         {
           "BannerURL":"https://drive.google.com/u/0z/uc?id=1fUj7pU3_P0-fuhHm72Plujxgx0-Jrs0H&export=download",
-          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+          "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         },
         {
           "BannerURL":"https://drive.google.com/u/0/uc?id=1IvsTD_fi3su-VLLT6WdboTnQSfVOiXQG&export=download",
-          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+          "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         },
         {
           "BannerURL":"https://drive.google.com/u/0/uc?id=1NQxDL2jFAPuLEfT_uzbC4utiXG-QVBhU&export=download",
-          "BannerRedirectURL":"https://gameskite.com/?id=vibemaster"
+          "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         }
       ],
     
     "Circle": 
       [
         {
-          "CircleLink": "https://drive.google.com/u/0/uc?id=1NJVyox5e6h4T6aKbCWuC-80aZFtkgx-2&export=download",
-          "CircleRedirectLink": "https://gameskite.com/?id=vibemaster"
+          "CircleLink": "https://static.gamezop.com/creatives/e1402a66-d22c-43e8-8b33-af4c063b29ca.png",
+          "CircleRedirectLink": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         },
         {
-          "CircleLink":"https://drive.google.com/u/0/uc?id=1RqG1Ahwxi9Kx39uqTw5Pe5gL7o235gfl&export=download",
-          "CircleRedirectLink":"https://gameskite.com/?id=vibemaster"
+          "CircleLink": "https://static.gamezop.com/creatives/e1402a66-d22c-43e8-8b33-af4c063b29ca.png",
+          "CircleRedirectLink":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         }
       ]
    }
