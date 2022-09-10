@@ -29,15 +29,23 @@
       "AppBanner": 
       [
         {
-          "BannerURL":"https://drive.google.com/u/0z/uc?id=1fUj7pU3_P0-fuhHm72Plujxgx0-Jrs0H&export=download",
+          "BannerURL":"https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
           "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         },
         {
-          "BannerURL":"https://drive.google.com/u/0/uc?id=1IvsTD_fi3su-VLLT6WdboTnQSfVOiXQG&export=download",
+          "BannerURL":"https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
           "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         },
         {
-          "BannerURL":"https://drive.google.com/u/0/uc?id=1NQxDL2jFAPuLEfT_uzbC4utiXG-QVBhU&export=download",
+          "BannerURL":"https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
+          "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
+        },
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
+          "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
+        },
+        {
+          "BannerURL":"https://static.gamezop.com/creatives/711d836b-677d-4b9d-8873-ffce7cda85eb.png",
           "BannerRedirectURL":"https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u"
         }
       ],
