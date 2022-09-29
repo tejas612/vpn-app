@@ -2,20 +2,20 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
-      "AdsOnOff" : "Off",  
+      "AdsOnOff" : "On",  
     
-      "AppVersion_Update" : "1.5",  
+      "AppVersion_Update" : "1.6",  
     
       "email" : "reach@flawsometechnology.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
      
-      "BannerAd_Id": "ca-app-pub-xyz3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-xyz3940256099942544/1033173712",
-      "NativeAd_Id": "ca-app-pub-xyz3940256099942544/2247696110",
-      "NativeAd_Id1": "ca-app-pub-xyz3940256099942544/2247696110",
-      "Video_Ad_Id": "ca-app-pub-xyz3940256099942544/5224354917",
-      "AppOpenAd_Id": "ca-app-pub-xyz3940256099942544/3419835294",
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+      "NativeAd_Id1": "ca-app-pub-3940256099942544/2247696110",
+      "Video_Ad_Id": "ca-app-pub-3940256099942544/5224354917",
+      "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
       
       "GamezopId": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
       "QurekaID": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
