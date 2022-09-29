@@ -3,6 +3,9 @@
       "AD_Priority_Google/URL" : "Google",
     
       "AdsOnOff" : "On",  
+      
+      "_comment": "Milli second 1Sec = 1000 MiliSec",
+      "InterAd_Interval" : "10000",  
     
       "AppVersion_Update" : "1.6",  
     
