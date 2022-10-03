@@ -2,7 +2,7 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "off",  
       
       "InterAd_Interval" : "20000",  
