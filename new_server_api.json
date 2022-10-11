@@ -1,8 +1,8 @@
 {
   "free_server_data": [
      {
-      "title": "test",
-      "image": "https://tejas612.github.io/vpn-app/Country-Flags/japan.png",
+      "title": "Ashburn, USA",
+      "image": "https://tejas612.github.io/vpn-app/Country-Flags/usa.png",
       "id": "openvpn",
       "isPremium" : "No",
       "newId": "Vpnserverhosting@3441$$",
