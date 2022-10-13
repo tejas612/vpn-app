@@ -4,6 +4,8 @@
     
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
+    
+      "BackButtonAds_OnOff" : "on",  
       
       "InterAd_Interval" : "20000",  
     
