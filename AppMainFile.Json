@@ -5,9 +5,10 @@
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
     
-      "BackButtonAds_OnOff" : "on",  
+      "BackButtonAds_OnOff" : "off",  
       
       "InterAd_Interval" : "20000",  
+      "VideoAd_Interval" : "20000", 
     
       "AppVersion_Update" : "1.9",  
     
