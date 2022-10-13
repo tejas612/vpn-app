@@ -2,6 +2,8 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
+      "AppVersion_Update" : "1.9",  
+    
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
     
@@ -10,12 +12,11 @@
       "InterAd_Interval" : "20000",  
       "VideoAd_Interval" : "20000", 
     
-      "AppVersion_Update" : "1.9",  
+      "RecycleAds_Position" : "2", 
     
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-     
       "BannerAd_Id": "ca-app-pub-3_not_use_942544/6300978111",
       "InterAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
       "NativeAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
