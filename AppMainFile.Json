@@ -7,7 +7,7 @@
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
     
-      "BackButtonAds_OnOff" : "off",  
+      "BackButtonAds_OnOff" : "on",  
       
       "InterAd_Interval" : "10000",  
       "VideoAd_Interval" : "10000", 
