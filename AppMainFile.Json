@@ -9,8 +9,8 @@
     
       "BackButtonAds_OnOff" : "on",  
       
-      "InterAd_Interval" : "5000",  
-      "VideoAd_Interval" : "5000", 
+      "InterAd_Interval" : "2000",  
+      "VideoAd_Interval" : "2000", 
     
       "RecycleAds_Position" : "3", 
     
@@ -19,7 +19,7 @@
     
       "BannerAd_Id": "ca-app-pub-3_not_use_942544/6300978111",
       "InterAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
-      "Video_Ad_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
+      "Video_Ad_Id": "/22475853447,2283185_XYZ_5031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
       "NativeAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
       "NativeAd_Id1": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
       "AppOpenAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_AppOpen",
