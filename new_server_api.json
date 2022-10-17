@@ -1,8 +1,8 @@
 {
   "free_server_data": [
      {
-      "title": "Usa",
-      "image": "https://tejas612.github.io/vpn-app/Country-Flags/usa.png",
+      "title": "Moscow, Russian",
+      "image": "https://tejas612.github.io/vpn-app/Country-Flags/russian.png",
       "id": "vpn",
       "isPremium" : "No",
       "newId": "vpn",
