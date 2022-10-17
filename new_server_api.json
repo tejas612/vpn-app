@@ -1,8 +1,8 @@
 {
   "free_server_data": [
     {
-      "title": "Demo",
-      "image": "https://tejas612.github.io/vpn-app/Country-Flags/s_korea.png",
+      "title": "Pyongyang, North Korea",
+      "image": "https://tejas612.github.io/vpn-app/Country-Flags/n_korea.png",
       "id": "vpn",
       "isPremium" : "No",
       "newId": "vpn",
