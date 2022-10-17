@@ -9,8 +9,8 @@
     
       "BackButtonAds_OnOff" : "on",  
       
-      "InterAd_Interval" : "10000",  
-      "VideoAd_Interval" : "10000", 
+      "InterAd_Interval" : "5000",  
+      "VideoAd_Interval" : "5000", 
     
       "RecycleAds_Position" : "3", 
     
