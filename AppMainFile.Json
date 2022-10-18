@@ -8,6 +8,8 @@
       "DialogBoxAds_OnOff" : "on",  
       "BannerAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "on",  
+    
+      "Video30_and_InterAd" : "interad",  
       
       "InterAd_Interval" : "2000",  
       "VideoAd_Interval" : "2000", 
