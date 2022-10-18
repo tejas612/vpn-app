@@ -9,7 +9,7 @@
       "BannerAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "on",  
     
-      "Video30_and_InterAd" : "interad",  
+      "Video30_and_InterAd" : "video30",  
       
       "InterAd_Interval" : "2000",  
       "VideoAd_Interval" : "2000", 
