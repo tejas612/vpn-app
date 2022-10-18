@@ -11,6 +11,7 @@
       
       "InterAd_Interval" : "2000",  
       "VideoAd_Interval" : "2000", 
+      "Video30Ad_Interval" : "2000", 
     
       "RecycleAds_Position" : "3", 
     
