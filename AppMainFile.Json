@@ -5,9 +5,9 @@
       "AppVersion_Update" : "2.0",  
     
       "AdsOnOff" : "on",  
-      "DialogBoxAds_OnOff" : "on",  
+      "DialogBoxAds_OnOff" : "off",  
       "BannerAds_OnOff" : "off",  
-      "BackButtonAds_OnOff" : "on",  
+      "BackButtonAds_OnOff" : "off",  
     
       "Video30_and_InterAd" : "interad",  
       
