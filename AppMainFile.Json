@@ -6,14 +6,14 @@
     
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
-      "BannerAds_OnOff" : "on",  
+      "BannerAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "on",  
     
       "Video30_and_InterAd" : "interad",  
       
-      "InterAd_Interval" : "2000",  
-      "VideoAd_Interval" : "2000", 
-      "Video30Ad_Interval" : "2000", 
+      "InterAd_Interval" : "10000",  
+      "VideoAd_Interval" : "10000", 
+      "Video30Ad_Interval" : "10000", 
     
       "RecycleAds_Position" : "3", 
     
