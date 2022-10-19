@@ -2,18 +2,18 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
-      "AppVersion_Update" : "2.0",  
+      "AppVersion_Update" : "2.2",  
     
       "AdsOnOff" : "on",  
-      "DialogBoxAds_OnOff" : "off",  
-      "BannerAds_OnOff" : "off",  
+      "DialogBoxAds_OnOff" : "on",  
+      "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
       "Video30_and_InterAd" : "interad",  
       
-      "InterAd_Interval" : "10000",  
-      "VideoAd_Interval" : "10000", 
-      "Video30Ad_Interval" : "10000", 
+      "InterAd_Interval" : "2000",  
+      "VideoAd_Interval" : "2000", 
+      "Video30Ad_Interval" : "2000", 
     
       "RecycleAds_Position" : "3", 
     
@@ -26,7 +26,7 @@
       "NativeAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
       "NativeAd_Id1": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
       "AppOpenAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_AppOpen",
-      "VideoAd30_Id": "ca-app-pub-3940256099942544/5224354917",
+      "VideoAd30_Id": "ca-app-pub-xyz3940256099942544/5224354917",
       
       "GamezopId": "https://www.gamezop.com/?id=6Cq0LIfxZ",
       "QurekaID": "https://www.gamezop.com/?id=6Cq0LIfxZ",
