@@ -2,18 +2,18 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
-      "AppVersion_Update" : "2.2",  
+      "AppVersion_Update" : "2.3",  
     
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
-      "BannerAds_OnOff" : "off",  
+      "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
       "Video30_and_InterAd" : "interad",  
       
-      "InterAd_Interval" : "10000",  
-      "VideoAd_Interval" : "10000", 
-      "Video30Ad_Interval" : "10000", 
+      "InterAd_Interval" : "2000",  
+      "VideoAd_Interval" : "2000", 
+      "Video30Ad_Interval" : "2000", 
     
       "RecycleAds_Position" : "3", 
     
