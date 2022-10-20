@@ -4,12 +4,12 @@
     
       "AppVersion_Update" : "2.3",  
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
-      "BannerAds_OnOff" : "off",  
-      "BackButtonAds_OnOff" : "off",  
+      "BannerAds_OnOff" : "on",  
+      "BackButtonAds_OnOff" : "on",  
     
-      "Video30_and_InterAd" : "interad",  
+      "Video30_and_InterAd" : "video30",  
       
       "InterAd_Interval" : "10000",  
       "VideoAd_Interval" : "10000", 
