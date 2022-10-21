@@ -11,9 +11,9 @@
     
       "Video30_and_InterAd" : "video30",  
       
-      "InterAd_Interval" : "10000",  
-      "VideoAd_Interval" : "10000", 
-      "Video30Ad_Interval" : "10000", 
+      "InterAd_Interval" : "3000",  
+      "VideoAd_Interval" : "3000", 
+      "Video30Ad_Interval" : "3000", 
     
       "RecycleAds_Position" : "3", 
     
