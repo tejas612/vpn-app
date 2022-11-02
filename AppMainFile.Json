@@ -1,10 +1,10 @@
 {
   "data" :  {
-      "AD_Priority_Google/URL" : "url",
+      "AD_Priority_Google/URL" : "Google",
     
       "AppVersion_Update" : "2.3",  
     
-      "AdsOnOff" : "on",  
+      "AdsOnOff" : "off",  
       "DialogBoxAds_OnOff" : "on",  
       "BannerAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "on",  
