@@ -1,5 +1,6 @@
 {
   "data" :  {
+      "TODO:- if googleAd fail then redirect on URL" : "",
       "AD_Priority_Google/URL" : "URL",
     
       "AppVersion_Update" : "2.3",  
