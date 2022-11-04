@@ -6,6 +6,7 @@
     
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
+      "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "on",  
     
