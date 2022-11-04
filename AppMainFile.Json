@@ -11,7 +11,7 @@
     
       "Video30_and_InterAd" : "interAd",  
       
-      "InterAd_Interval" : "3000",  
+      "InterAd_Interval" : "10000",  
       "VideoAd_Interval" : "3000", 
       "Video30Ad_Interval" : "3000", 
     
