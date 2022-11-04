@@ -5,7 +5,7 @@
     
       "AppVersion_Update" : "2.3",  
     
-      "AdsOnOff" : "on",  
+      "AdsOnOff" : "off",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
       "BannerAds_OnOff" : "off",  
