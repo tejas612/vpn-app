@@ -3,7 +3,7 @@
       "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL" : "",
       "AD_Priority_Google/URL" : "URL",
     
-      "AppVersion_Update" : "2.4",  
+      "AppVersion_Update" : "2.5",  
     
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
