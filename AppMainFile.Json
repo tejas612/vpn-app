@@ -4,8 +4,8 @@
       "AD_Priority_Google/URL" : "URL",
     
       "Vpn_On_Off_Direct" : "on",  
-      "ghe2" : "gam_codemizevpn",
-      "carrierId_ourVPN" : "aft_vpn_test",
+      "ghe2" : "aft_vpn_test",
+      "carrierId_ourVPN" : "gam_codemizevpn",
     
       "AppVersion_Update" : "2.5",  
     
