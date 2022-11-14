@@ -1,7 +1,7 @@
 {
   "data" :  {
       "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL" : "",
-      "AD_Priority_Google/URL" : "google",
+      "AD_Priority_Google/URL" : "url",
     
       "AppVersion_Update" : "2.5",  
     
@@ -26,7 +26,7 @@
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
       "BannerAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Banner",
-      "InterAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
+      "InterAd_Id": "/22475853447,22831855031_not_use_in_app_/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
       "Video_Ad_Id": "/22475853447,22831855031_not_use_in_app_/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
       "NativeAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
       "NativeAd_Id1": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
