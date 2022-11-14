@@ -1,7 +1,7 @@
 {
   "data" :  {
       "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL" : "",
-      "AD_Priority_Google/URL" : "url",
+      "AD_Priority_Google/URL" : "google",
     
       "AD_Priority_Google_Applovin" : "google",
     
@@ -14,7 +14,7 @@
       "AdsOnOff" : "on",  
       "DialogBoxAds_OnOff" : "on",  
       "DialogBox_InterAds_OnOff" : "on",  
-      "BannerAds_OnOff" : "on",  
+      "BannerAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "on",  
     
       "Video30_and_InterAd" : "interAd",  
