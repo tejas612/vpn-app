@@ -1,7 +1,7 @@
 {
   "data" :  {
       "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL" : "",
-      "AD_Priority_Google/URL" : "google",
+      "AD_Priority_Google/URL" : "url",
     
       "AD_Priority_Google_Applovin" : "google",
     
@@ -31,13 +31,13 @@
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-      "BannerAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Banner",
-      "InterAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
+      "BannerAd_Id": "ca-app-pub-7901137501944399/1595316028",
+      "InterAd_Id": "ca-app-pub-7901137501944399/1212172644",
       "Video_Ad_Id": "/22475853447,22831855031_not_use_in_app_/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
-      "NativeAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
-      "NativeAd_Id1": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
-      "AppOpenAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_AppOpen",
-      "VideoAd30_Id": "ca-app-pub-_not_use_in_app_2867037774906335/5969636345",
+      "NativeAd_Id": "ca-app-pub-7901137501944399/2142110935",
+      "NativeAd_Id1": "ca-app-pub-7901137501944399/2142110935",
+      "AppOpenAd_Id": "ca-app-pub-7901137501944399/9829029267",
+      "VideoAd30_Id": "ca-app-pub-7901137501944399/2333682624",
       
       "BannerAd_Id_Applovin": "05db2d18005177b2",
       "MrecAd_Id_Applovin": "0ca37f2c026b4609",
