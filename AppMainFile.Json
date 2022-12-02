@@ -17,7 +17,7 @@
       "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
-      "Video30_and_InterAd" : "video30",  
+      "Video30_and_InterAd" : "interAd",  
       
       "InterAd_Interval" : "3000",  
       "VideoAd_Interval" : "3000", 
@@ -31,13 +31,13 @@
       "email" : "venturescope69@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-      "BannerAd_Id": "ca-app-pub-7901137501944399/1595316028",
-      "InterAd_Id": "ca-app-pub-7901137501944399/1212172644",
+      "BannerAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Banner",
+      "InterAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
       "Video_Ad_Id": "/22475853447,22831855031_not_use_in_app_/FlawsomeTechnologies_orbut.vpn.secure.proxy_Interstitial",
-      "NativeAd_Id": "ca-app-pub-7901137501944399/2142110935",
-      "NativeAd_Id1": "ca-app-pub-7901137501944399/2142110935",
-      "AppOpenAd_Id": "ca-app-pub-7901137501944399/9829029267",
-      "VideoAd30_Id": "ca-app-pub-7901137501944399/2333682624",
+      "NativeAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
+      "NativeAd_Id1": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_Native",
+      "AppOpenAd_Id": "/22475853447,22831855031/FlawsomeTechnologies_orbut.vpn.secure.proxy_AppOpen",
+      "VideoAd30_Id": "ca-app-pub-_not_use_in_app_7901137501944399/2333682624",
       
       "BannerAd_Id_Applovin": "05db2d18005177b2",
       "MrecAd_Id_Applovin": "0ca37f2c026b4609",
