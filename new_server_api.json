@@ -1,14 +1,5 @@
 {
   "free_server_data": [
-      {
-      "server_owner": "Free vpngate",
-      "title": "Germany",
-      "image": "https://tejas612.github.io/vpn-app/Country-Flags/germany.jpg",
-      "id": "orbutvpn",
-      "isPremium" : "No",
-      "newId": "orbutvpn",
-      "contant": "client \ndev tun \nproto udp \nremote deo-1.opensvr.net 1194 \nauth-nocache \nresolv-retry infinite \nroute-method exe \nresolv-retry infinite \ncipher AES-128-CBC \nnobind \npersist-key \npersist-tun \nremote-cert-tls server \nauth-user-pass \ncomp-lzo \nverb 3 \n<ca> \n-----BEGIN CERTIFICATE----- \nMIIDKzCCAhOgAwIBAgIJAKaWQLxxdSdcMA0GCSqGSIb3DQEBCwUAMBMxETAPBgNV \nBAMMCENoYW5nZU1lMB4XDTIyMTExMDExMDcwNFoXDTMyMTEwNzExMDcwNFowEzER \nMA8GA1UEAwwIQ2hhbmdlTWUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB \nAQDEjUKJyxigUt8ocm9UpWjFBpikBovYVyLkf8fL7xl9MhF3ez66Qy55xhkdUF+F \ngAcw4MKQDcJb/PLrtoM2QJmynj+qbBl5+qQLWvH2N8LiIu5BlA2iSd18JGwyBCrj \n0VvHk8cS4u2dqcsUs8xbUR436AXj/JIZk1DJ9BMF40NhDF6fMttMlLAZu7x4tdAd \nXKE3ms3VnLpqP5LRfqod8FD8pOCGeIndZxSQ6cpALN/Pz3Pw4waRotsyDJLtfpGL \nA67l9lj0Qo79I7QfF82TQTwZgj0gu9QQ8b+StE+L32IGvbkhsPallf9bN55wZixA \nJqelypkp8shyOhcubLvq8DGpAgMBAAGjgYEwfzAdBgNVHQ4EFgQUMgEh+0kXkzgF \nRPKasjTlflaTiaUwQwYDVR0jBDwwOoAUMgEh+0kXkzgFRPKasjTlflaTiaWhF6QV \nMBMxETAPBgNVBAMMCENoYW5nZU1lggkAppZAvHF1J1wwDAYDVR0TBAUwAwEB/zAL \nBgNVHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggEBAGKKgXxQU/YHIg3o1mssActn \nBQgZ92CAGKuSXBcd0+Z9U8dIieQS8XbYEI9GK0hYMxhC3h/lCON7HAThPy8f0PMS \n8V98iZXRegpjqydpthibfzc1QtORiMpFmYeTA+KPwLzc8yGR+arFl6YQq/SeIDX7 \nUDayI2Z1JRPRbyxfZyx1qgLWHgsk8OE3CmPWT8Wl6p6VjGsB6pC4mbMeo4xFw9Iq \n97jV2CGuBUIhwXbDsGVmTqdLPX1tIjimjknIPXOFnh3Ve7xRjg3D5lDo060Jlagx \nD+iPAiUaC40HpKdSDnLPYTgtU6iHPXVyAywpdGxL7QEtetg+i5YfSUefDxL9cQg= \n-----END CERTIFICATE----- \n</ca>"
-    },
      {
       "server_owner": "Free vpngate",
       "title": "Montreal, Canada",
