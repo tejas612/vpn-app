@@ -3,7 +3,7 @@
       "TODO:- 1)if googleAd fail then redirect on URL, 2)if write Google then only show ads no URL" : "",
       "AD_Priority_Google/URL" : "url",
     
-      "AD_Priority_Google_Applovin" : "google",
+      "AD_Priority_Google_Applovin" : "applovin",
     
       "Vpn_On_Off_Direct" : "off",  
       "ghe2" : "aft_vpn_test",
@@ -17,7 +17,7 @@
       "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
-      "Video30_and_InterAd" : "interAd",  
+      "Video30_and_InterAd" : "video30",  
       
       "InterAd_Interval" : "1000",  
       "VideoAd_Interval" : "1000", 
