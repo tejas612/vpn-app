@@ -17,11 +17,11 @@
       "BannerAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
-      "Video30_and_InterAd" : "video30",  
+      "Video30_and_InterAd" : "interad",  
       
-      "InterAd_Interval" : "1000",  
-      "VideoAd_Interval" : "1000", 
-      "Video30Ad_Interval" : "1000", 
+      "InterAd_Interval" : "3000",  
+      "VideoAd_Interval" : "3000", 
+      "Video30Ad_Interval" : "3000", 
     
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
