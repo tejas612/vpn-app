@@ -11,11 +11,11 @@
     
       "AppVersion_Update" : "2.7",  
     
-      "AdsOnOff" : "on",  
-      "DialogBoxAds_OnOff" : "on",  
-      "DialogBox_InterAds_OnOff" : "on",  
-      "BannerAds_OnOff" : "on",  
-      "BackButtonAds_OnOff" : "on",  
+      "AdsOnOff" : "off",  
+      "DialogBoxAds_OnOff" : "off",  
+      "DialogBox_InterAds_OnOff" : "off",  
+      "BannerAds_OnOff" : "off",  
+      "BackButtonAds_OnOff" : "off",  
     
       "Video30_and_InterAd" : "interad",  
       
